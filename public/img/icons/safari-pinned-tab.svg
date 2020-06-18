@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 965.77679 965.77679">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #191919;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Asset 4@41x</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g>
+        <rect class="cls-1" width="965.77679" height="965.77679" rx="200.92857"/>
+        <polygon class="cls-2" points="419.153 352.26 481.173 379.462 546.624 351.603 546.624 689.335 419.153 689.335 419.153 352.26"/>
+        <polygon class="cls-2" points="587.362 332.551 714.833 269.251 714.833 689.335 587.362 689.335 587.362 332.551"/>
+        <polygon class="cls-2" points="380.806 332.551 253.335 269.251 253.335 689.335 380.806 689.335 380.806 332.551"/>
+      </g>
+    </g>
+  </g>
+</svg>
